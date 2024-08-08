@@ -1,2 +1,5 @@
 ﻿  tic-tac-toe.cpp
-  tic-tac-toe.vcxproj -> C:\Users\qd041\OneDrive\Desktop\tic-tac-toe\x64\Debug\tic-tac-toe.exe
+C:\Users\qd041\OneDrive\Desktop\tic-tac-toe\game-tic-tac-toe\tic-tac-toe.cpp(126,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\qd041\OneDrive\Desktop\tic-tac-toe\game-tic-tac-toe\tic-tac-toe.cpp(146,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\qd041\OneDrive\Desktop\tic-tac-toe\game-tic-tac-toe\tic-tac-toe.cpp(243,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  tic-tac-toe.vcxproj -> C:\Users\qd041\OneDrive\Desktop\tic-tac-toe\game-tic-tac-toe\x64\Debug\tic-tac-toe.exe
